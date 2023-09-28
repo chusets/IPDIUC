@@ -1,0 +1,3 @@
+:rules="[rules.required]"
+:rules="[rules.required, rules.email]"
+:rules="[rules.required, rules.min]"
